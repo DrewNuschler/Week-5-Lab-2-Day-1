@@ -1,5 +1,5 @@
 
-function gameChanger() {
+function gameChanger(myGameButton) {
     myGameHeader.innerHTML ="Controllers";
     myGameParagraph.innerHTML ="I like Scuff controllers."
 }
